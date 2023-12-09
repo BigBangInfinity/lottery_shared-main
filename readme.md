@@ -1,9 +1,8 @@
 Clone three repos to these folders:
 
 ```
-C:\> git clone https://github.com/BigBangInfinity/ballot_shared-backend-my-api
-C:\> git clone https://github.com/BigBangInfinity/ballot_shared-ballotcontract
-C:\> git clone https://github.com/BigBangInfinity/ballot_shared-scaffold-eth-2
+C:\> git clone https://github.com/BigBangInfinity/lottery_shared-contracts
+C:\> git clone https://github.com/BigBangInfinity/lottery_shared-scaffold-eth-2
 ```
 
 npm/yarn install in these folders
