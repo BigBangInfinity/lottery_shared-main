@@ -27,6 +27,7 @@ C:\lottery_shared-contracts>npx ts-node .\scripts\deployLottery.ts
 ```
 
 Lottery contract deployed at 0xED120a0e0B5E95BbC51549f58aa7131C53Dc67fB
+
 Token contract deployed at 0xB0eF8f57B5cE9eA614a7f24d74D471E8Cf90974e
 
 verify on etherscan:
