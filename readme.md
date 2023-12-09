@@ -57,7 +57,7 @@ NEXT_PUBLIC_LOTTERY_ADDRESS = "0xED120a0e0B5E95BbC51549f58aa7131C53Dc67fB"
 
 Launch frontend
 ```
-C:\lottery_shared-scaffold-eth-2
+C:\lottery_shared-scaffold-eth-2> yarn start
 ```
 
 Only owner (deployer) can open bets
